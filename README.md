@@ -33,4 +33,4 @@ python Interface.py
 ```
 And you should get the program running. For any doubts about the usage, acess the [docs](https://github.com/MarcusCampos1997/Photofaces/tree/master/documentation) to find the manual.
 
-
+  

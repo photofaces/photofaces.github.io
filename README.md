@@ -4,11 +4,11 @@ Photofaces is a tool to group images based on face similarity
 
 ## Description
 
-Photofaces is a tool developed as a completion of course work in computer engineering at IFMG - campus Bambuí. All the documentation can be found in the [docs](https://github.com/MarcusCampos1997/Photofaces/tree/master/documentation) subdirectory
+Photofaces is a tool developed as a completion of course work in computer engineering at IFMG - campus Bambuí. All the documentation can be found in the [docs](https://github.com/photofaces/photofaces.github.io/tree/master/documentation) subdirectory
 
 ## Getting Started
 
-This software is quite simple to use, but has some dependencies to get it working. Also, if you are interested on how everything works in depth, you should check the [docs](https://github.com/MarcusCampos1997/Photofaces/tree/master/documentation).
+This software is quite simple to use, but has some dependencies to get it working. Also, if you are interested on how everything works in depth, you should check the [docs](https://github.com/photofaces/photofaces.github.io/tree/master/documentation).
  
 ### Dependencies
 
@@ -22,7 +22,7 @@ A few libraries are needed to get Photofaces running, they are listed below :
 
 ### Installing
 
-To install photofaces go to the [releases](https://github.com/photofaces/photofaces/releases) site and make sure to get the latest one.
+To install photofaces go to the [releases](https://github.com/photofaces/photofaces.github.io/releases) site and make sure to get the latest one.
 
 ### Executing program
 

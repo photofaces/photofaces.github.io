@@ -43,7 +43,7 @@ def encode(metodo,endereco_fotos, nome_enc, endereco_destino):
 
 		# build a dictionary of the image path, bounding box location,
 		# and facial encodings for the current image
-        #este é o dicionario da imagem, caminho, retÂngulo onde fica o rosto, e a presentação numerica dela.
+        	#este é o dicionario da imagem, caminho, retângulo onde fica o rosto, e a presentação numerica dela.
 		d = [{"imagePath": imagePath, "loc": box, "encoding": enc}
 			for (box, enc) in zip(boxes, encodings)]
 		data.extend(d)

@@ -1,7 +1,7 @@
 # Photofaces
 
 Photofaces is a tool to group images based on face similarity.
-This work is based on the work of [Adrian Rosebrock] (https://www.pyimagesearch.com/2018/07/09/face-clustering-with-python/).
+This work is based on the work of Adrian Rosebrock (https://www.pyimagesearch.com/2018/07/09/face-clustering-with-python/).
 
 ## Description
 
